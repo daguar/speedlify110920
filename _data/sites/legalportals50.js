@@ -1,5 +1,5 @@
 module.exports = {
-  name: "Legal portals", // optional, falls back to object key
+  name: "50 state legal portals", // optional, falls back to object key
 	description: "50 state based legal help sites",
 	// skip if localhost
 	// skip if this is a new fork of the speedlify (not Zach’s)
